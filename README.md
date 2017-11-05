@@ -84,6 +84,9 @@ CodeVS : [CodeVS](http://codevs.cn/)
 Codility : [Codility](https://codility.com/)
 * Codility主要是帮助各大公司笔试的 , 可以在线编程 , 而且支持的语言非常多
 
+ HackerRank : [HackerRank](https://www.hackerrank.com/)
+* 加入200万多名开发者来解决 HackerRank 的代码难题, 这是准备面试的最好方法之一 . 
+
 ### Book
 CC150 : [Cracking the Coding Interview]()
 * 其实这是一本书 , Cracking the Coding Interview , 中文版《程序员面试金典》
