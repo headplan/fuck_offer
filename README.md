@@ -107,12 +107,12 @@ VJudge : [Virtual Judge](https://vjudge.net/)
 
 ---
 ## Add
-Z-Training : http://www.codah.club/
-LightOJ : http://www.lightoj.com/
-Acdream : http://acdream.info/
-Codechef : https://www.codechef.com/
-Codeabbey : http://www.codeabbey.com/
-Kattis : https://www.kattis.com/
+* Z-Training : http://www.codah.club/
+* LightOJ : http://www.lightoj.com/
+* Acdream : http://acdream.info/
+* Codechef : https://www.codechef.com/
+* Codeabbey : http://www.codeabbey.com/
+* Kattis : https://www.kattis.com/
 
 ----
 
